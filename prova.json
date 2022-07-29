@@ -1,0 +1,26 @@
+{
+	"nome" : "Mario",
+	"cognome" : "Rossi",
+	"età " : 29,
+	"pet" : 
+	[
+		{
+		"name" : "Red",
+		"type" : "cat",
+		"age" : 3
+		},
+		{
+		"name" : "Fido",
+		"type" : "dog",
+		"age" : 2
+		}  
+	]
+}
+
+
+
+
+
+
+
+
